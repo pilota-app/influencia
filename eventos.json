@@ -1,0 +1,461 @@
+[
+ {
+  "id": "e001",
+  "persona": "donald-trump",
+  "fecha": "2019-07-12",
+  "que": "Tuit: «no soy fan de bitcoin»",
+  "activo": "BTC",
+  "fuente": "https://www.coindesk.com/ (resumen en https://coinspot.io/en/analysis/five-trump-statements-moved-bitcoin-by-5-12-the-market-awaits-another-sharp-reaction/)",
+  "movimiento": {
+   "dia": 0.037,
+   "d1": 0.001,
+   "d5": -0.148,
+   "d20": -0.085,
+   "d60": -0.11
+  },
+  "duro_20d": false,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e002",
+  "persona": "elon-musk",
+  "fecha": "2021-02-08",
+  "que": "Tesla compró 1.500 millones de USD en BTC",
+  "activo": "BTC",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": 0.195,
+   "d1": 0.197,
+   "d5": 0.215,
+   "d20": 0.163,
+   "d60": 0.499
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e003",
+  "persona": "elon-musk",
+  "fecha": "2021-05-09",
+  "que": "Musk en SNL llama a Dogecoin «a hustle»",
+  "activo": "DOGE",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": -0.104,
+   "d1": -0.292,
+   "d5": -0.121,
+   "d20": -0.525,
+   "d60": -0.675
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e004",
+  "persona": "elon-musk",
+  "fecha": "2021-05-12",
+  "que": "Tesla deja de aceptar BTC por el gasto de energía",
+  "activo": "BTC",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": -0.124,
+   "d1": -0.124,
+   "d5": -0.232,
+   "d20": -0.353,
+   "d60": -0.395
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e005",
+  "persona": "sam-bankman-fried",
+  "fecha": "2022-11-08",
+  "que": "Se cae FTX",
+  "activo": "BTC",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": -0.099,
+   "d1": -0.227,
+   "d5": -0.207,
+   "d20": -0.213,
+   "d60": -0.177
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e006",
+  "persona": null,
+  "fecha": "2024-01-10",
+  "que": "Aprueban los ETF de BTC al contado",
+  "activo": "BTC",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": 0.012,
+   "d1": 0.005,
+   "d5": -0.078,
+   "d20": -0.069,
+   "d60": 0.495
+  },
+  "duro_20d": false,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e007",
+  "persona": null,
+  "fecha": "2024-11-05",
+  "que": "Gana Trump (prometió apoyar cripto)",
+  "activo": "BTC",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": 0.022,
+   "d1": 0.114,
+   "d5": 0.185,
+   "d20": 0.371,
+   "d60": 0.448
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e008",
+  "persona": null,
+  "fecha": "2024-11-06",
+  "que": "Gana Trump",
+  "activo": "SPY",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": 0.025,
+   "d1": 0.033,
+   "d5": 0.036,
+   "d20": 0.052,
+   "d60": 0.051
+  },
+  "duro_20d": true,
+  "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e009",
+  "persona": null,
+  "fecha": "2025-01-27",
+  "que": "Modelo chino barato: Nvidia cae",
+  "activo": "NVDA",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": -0.17,
+   "d1": -0.096,
+   "d5": -0.182,
+   "d20": -0.112,
+   "d60": -0.28
+  },
+  "duro_20d": true,
+  "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e010",
+  "persona": "donald-trump",
+  "fecha": "2025-03-02",
+  "que": "Post: reserva estratégica cripto con BTC y ETH",
+  "activo": "BTC",
+  "fuente": "https://dc.fortune.com/crypto/2025/03/02/trump-bitcoin-crypto-reserve-xrp-sol-ada-btc-eth-prices",
+  "movimiento": {
+   "dia": 0.095,
+   "d1": 0.002,
+   "d5": 0.009,
+   "d20": -0.026,
+   "d60": 0.121
+  },
+  "duro_20d": false,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e011",
+  "persona": "donald-trump",
+  "fecha": "2025-04-03",
+  "que": "«Liberation Day»: aranceles a todo el mundo",
+  "activo": "SPY",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": -0.049,
+   "d1": -0.105,
+   "d5": -0.071,
+   "d20": 0.004,
+   "d60": 0.097
+  },
+  "duro_20d": false,
+  "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e012",
+  "persona": "donald-trump",
+  "fecha": "2025-04-03",
+  "que": "«Liberation Day»: aranceles a todo el mundo",
+  "activo": "BTC",
+  "fuente": "conocimiento público; agregar fuente",
+  "movimiento": {
+   "dia": 0.008,
+   "d1": 0.017,
+   "d5": -0.075,
+   "d20": 0.135,
+   "d60": 0.283
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e013",
+  "persona": "donald-trump",
+  "fecha": "2025-04-09",
+  "que": "Post «GREAT TIME TO BUY» y pausa de 90 días",
+  "activo": "SPY",
+  "fuente": "https://en.cryptonomist.ch/2026/04/20/bitcoin-manipulation-trump-markets/",
+  "movimiento": {
+   "dia": 0.105,
+   "d1": 0.057,
+   "d5": 0.059,
+   "d20": 0.138,
+   "d60": 0.253
+  },
+  "duro_20d": true,
+  "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e014",
+  "persona": "donald-trump",
+  "fecha": "2025-04-09",
+  "que": "Post «GREAT TIME TO BUY» y pausa de 90 días",
+  "activo": "BTC",
+  "fuente": "https://en.cryptonomist.ch/2026/04/20/bitcoin-manipulation-trump-markets/",
+  "movimiento": {
+   "dia": 0.082,
+   "d1": 0.043,
+   "d5": 0.108,
+   "d20": 0.235,
+   "d60": 0.385
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e015",
+  "persona": "donald-trump",
+  "fecha": "2025-10-10",
+  "que": "Post: arancel de 100 % a China",
+  "activo": "BTC",
+  "fuente": "https://cryptonewsbb.blogspot.com/2026/04/five-times-president-trump-made.html",
+  "movimiento": {
+   "dia": -0.073,
+   "d1": -0.091,
+   "d5": -0.09,
+   "d20": -0.11,
+   "d60": -0.238
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e016",
+  "persona": "donald-trump",
+  "fecha": "2025-10-23",
+  "que": "Indulto a Changpeng Zhao (fundador de Binance)",
+  "activo": "BNB",
+  "fuente": "https://www.theblock.co/post/375917/president-trump-pardons-former-binance-ceo-changpeng-zhao/",
+  "movimiento": {
+   "dia": 0.051,
+   "d1": 0.035,
+   "d5": 0.03,
+   "d20": -0.111,
+   "d60": -0.199
+  },
+  "duro_20d": false,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e017",
+  "persona": "donald-trump",
+  "fecha": "2025-10-10",
+  "que": "Post: arancel de 100 % a China",
+  "activo": "SPY",
+  "fuente": "https://cryptonewsbb.blogspot.com/2026/04/five-times-president-trump-made.html",
+  "movimiento": {
+   "dia": -0.027,
+   "d1": -0.012,
+   "d5": -0.01,
+   "d20": -0.0,
+   "d60": 0.03
+  },
+  "duro_20d": false,
+  "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e018",
+  "persona": "donald-trump",
+  "fecha": "2026-01-20",
+  "que": "Amenaza de aranceles a Europa por Groenlandia",
+  "activo": "SPY",
+  "fuente": "https://fintool.com/news/greenland-tariff-selloff-sell-america",
+  "movimiento": {
+   "dia": -0.02,
+   "d1": -0.009,
+   "d5": 0.006,
+   "d20": -0.008,
+   "d60": 0.017
+  },
+  "duro_20d": false,
+  "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e019",
+  "persona": "donald-trump",
+  "fecha": "2026-01-20",
+  "que": "Amenaza de aranceles a Europa por Groenlandia",
+  "activo": "BTC",
+  "fuente": "https://fintool.com/news/greenland-tariff-selloff-sell-america",
+  "movimiento": {
+   "dia": -0.045,
+   "d1": -0.034,
+   "d5": -0.064,
+   "d20": -0.243,
+   "d60": -0.256
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e020",
+  "persona": "donald-trump",
+  "fecha": "2026-01-21",
+  "que": "Post: no habrá aranceles, hay «marco de acuerdo»",
+  "activo": "BTC",
+  "fuente": "https://www.theblock.co/news/markets/2026-01-21-ethereum-reclaims-3000-crypto-rebound-trump-calls-off-greenland-tariff-threat-386590",
+  "movimiento": {
+   "dia": 0.012,
+   "d1": 0.013,
+   "d5": -0.001,
+   "d20": -0.221,
+   "d60": -0.233
+  },
+  "duro_20d": false,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e021",
+  "persona": "elon-musk",
+  "fecha": "2026-02-03",
+  "que": "Post «Maybe next year» sobre llevar Dogecoin a la Luna",
+  "activo": "DOGE",
+  "fuente": "https://www.mexc.com/news/631719",
+  "movimiento": {
+   "dia": -0.018,
+   "d1": -0.038,
+   "d5": -0.105,
+   "d20": -0.141,
+   "d60": -0.147
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e022",
+  "persona": null,
+  "fecha": "2026-02-05",
+  "que": "BTC cae 15 % en un día (liquidaciones, salida de los ETF)",
+  "activo": "BTC",
+  "fuente": "https://learn.backpack.exchange/articles/bitcoin-crash",
+  "movimiento": {
+   "dia": -0.14,
+   "d1": -0.035,
+   "d5": -0.059,
+   "d20": -0.071,
+   "d60": -0.059
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e023",
+  "persona": "donald-trump",
+  "fecha": "2026-03-30",
+  "que": "Post: «conversaciones serias» con Irán",
+  "activo": "BTC",
+  "fuente": "https://cryptonews.net/news/analytics/32644524/",
+  "movimiento": {
+   "dia": 0.012,
+   "d1": 0.034,
+   "d5": 0.02,
+   "d20": 0.118,
+   "d60": 0.113
+  },
+  "duro_20d": true,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e024",
+  "persona": "donald-trump",
+  "fecha": "2026-04-14",
+  "que": "Post contra los bancos por la ley Clarity",
+  "activo": "BTC",
+  "fuente": "https://homepage-paper.vercel.app/en/news/9791",
+  "movimiento": {
+   "dia": -0.004,
+   "d1": 0.005,
+   "d5": -0.008,
+   "d20": 0.073,
+   "d60": -0.134
+  },
+  "duro_20d": false,
+  "precios": "Binance, vela diaria UTC"
+ },
+ {
+  "id": "e025",
+  "persona": null,
+  "fecha": "2026-06-05",
+  "que": "Empleo fuerte y caída de tecnológicas",
+  "activo": "SPY",
+  "fuente": "https://www.fortune.com/2026/06/05/auto-draft-5/",
+  "movimiento": {
+   "dia": -0.026,
+   "d1": -0.024,
+   "d5": -0.02,
+   "d20": -0.01,
+   "d60": 0.009
+  },
+  "duro_20d": false,
+  "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e026",
+  "persona": null,
+  "fecha": "2026-11-05",
+  "que": "Venta del sector IA: peor día del S&P 500 en valor",
+  "activo": "SPY",
+  "fuente": "https://stockanalysis.com/news/sp-500-record-one-day-market-value-loss/",
+  "movimiento": {
+   "dia": -0.044,
+   "d1": -0.041,
+   "d5": -0.013,
+   "d20": null,
+   "d60": null
+  },
+  "duro_20d": null,
+  "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e027",
+  "persona": null,
+  "fecha": "2026-11-05",
+  "que": "Venta del sector IA",
+  "activo": "NVDA",
+  "fuente": "https://stockanalysis.com/news/sp-500-record-one-day-market-value-loss/",
+  "movimiento": {
+   "dia": -0.093,
+   "d1": -0.067,
+   "d5": -0.17,
+   "d20": null,
+   "d60": null
+  },
+  "duro_20d": null,
+  "precios": "Yahoo Finance, cierre ajustado"
+ }
+]

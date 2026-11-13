@@ -1,0 +1,305 @@
+[
+ {
+  "id": "donald-trump",
+  "nombre": "Donald Trump",
+  "rol": "Presidente de EE. UU.",
+  "mercados": [
+   "cripto",
+   "acciones"
+  ],
+  "activos": [
+   "BTC",
+   "SPY"
+  ],
+  "por_que": "Sus posts sobre aranceles, cripto y guerra movieron BTC y el S&P 500 en minutos.",
+  "cuentas": {
+   "truth_social": "realDonaldTrump",
+   "x": "realDonaldTrump"
+  },
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://fintool.com/news/greenland-tariff-selloff-sell-america"
+ },
+ {
+  "id": "kevin-warsh",
+  "nombre": "Kevin Warsh",
+  "rol": "Presidente de la Reserva Federal desde mayo de 2026",
+  "mercados": [
+   "cripto",
+   "acciones"
+  ],
+  "activos": [
+   "SPY",
+   "BTC"
+  ],
+  "por_que": "Decide la tasa de interés de EE. UU.: mueve todo lo que tiene riesgo.",
+  "cuentas": {},
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://rollcall.com/2026/05/13/warsh-confirmed-to-lead-federal-reserve/"
+ },
+ {
+  "id": "jerome-powell",
+  "nombre": "Jerome Powell",
+  "rol": "Gobernador de la Reserva Federal (fue presidente 2018–2026)",
+  "mercados": [
+   "acciones"
+  ],
+  "activos": [
+   "SPY"
+  ],
+  "por_que": "Sigue votando en la Fed.",
+  "cuentas": {},
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://www.deseret.com/politics/2026/05/13/trumps-pick-for-federal-reserve-chair-confirmed-by-senate/"
+ },
+ {
+  "id": "scott-bessent",
+  "nombre": "Scott Bessent",
+  "rol": "Secretario del Tesoro de EE. UU.",
+  "mercados": [
+   "acciones",
+   "cripto"
+  ],
+  "activos": [
+   "SPY"
+  ],
+  "por_que": "Negocia aranceles y deuda; sus anuncios mueven bonos y acciones.",
+  "cuentas": {},
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://content.govdelivery.com/accounts/USTREAS/bulletins/431e914"
+ },
+ {
+  "id": "paul-atkins",
+  "nombre": "Paul Atkins",
+  "rol": "Presidente de la SEC",
+  "mercados": [
+   "cripto",
+   "acciones"
+  ],
+  "activos": [
+   "BTC",
+   "ETH"
+  ],
+  "por_que": "Define las reglas de cripto y de acciones tokenizadas en EE. UU.",
+  "cuentas": {},
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://cointelegraph.com/news/paul-atkins-one-year-sec-chair"
+ },
+ {
+  "id": "michael-selig",
+  "nombre": "Michael Selig",
+  "rol": "Presidente de la CFTC",
+  "mercados": [
+   "cripto"
+  ],
+  "activos": [
+   "BTC"
+  ],
+  "por_que": "Regula los derivados y parte del mercado cripto.",
+  "cuentas": {},
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://bitcoinmagazine.com/news/sec-cftc-chiefs-signal-new-day-for-crypto"
+ },
+ {
+  "id": "elon-musk",
+  "nombre": "Elon Musk",
+  "rol": "Director de Tesla y SpaceX, dueño de X",
+  "mercados": [
+   "cripto",
+   "acciones"
+  ],
+  "activos": [
+   "DOGE",
+   "BTC",
+   "TSLA"
+  ],
+  "por_que": "En 2021 movía DOGE y BTC con un post; en 2026 sus posts casi no mueven DOGE.",
+  "cuentas": {
+   "x": "elonmusk"
+  },
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://www.mexc.com/news/631719"
+ },
+ {
+  "id": "richard-teng",
+  "nombre": "Richard Teng",
+  "rol": "Director de Binance",
+  "mercados": [
+   "cripto"
+  ],
+  "activos": [
+   "BNB"
+  ],
+  "por_que": "Dirige el exchange donde opera Pilota.",
+  "cuentas": {},
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://www.axios.com/2025/10/23/trump-pardon-binance-cz"
+ },
+ {
+  "id": "changpeng-zhao",
+  "nombre": "Changpeng Zhao (CZ)",
+  "rol": "Fundador y mayor accionista de Binance; indultado en octubre de 2025",
+  "mercados": [
+   "cripto"
+  ],
+  "activos": [
+   "BNB"
+  ],
+  "por_que": "Sus posts y su situación legal mueven BNB.",
+  "cuentas": {
+   "x": "cz_binance"
+  },
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://www.theblock.co/post/375917/president-trump-pardons-former-binance-ceo-changpeng-zhao/"
+ },
+ {
+  "id": "kevin-hassett",
+  "nombre": "Kevin Hassett",
+  "rol": "Director del Consejo Económico Nacional de EE. UU.",
+  "mercados": [
+   "acciones"
+  ],
+  "activos": [
+   "SPY"
+  ],
+  "por_que": "Habla seguido de tasas y economía en la Casa Blanca.",
+  "cuentas": {},
+  "rol_verificado": "verificado 2026-11-13",
+  "fuente_rol": "https://abc7news.com/post/senate-confirms-trump-pick-warsh-chairman-federal-reserve-following-powell/19094796/"
+ },
+ {
+  "id": "jensen-huang",
+  "nombre": "Jensen Huang",
+  "rol": "Director de Nvidia",
+  "mercados": [
+   "acciones"
+  ],
+  "activos": [
+   "NVDA",
+   "QQQ"
+  ],
+  "por_que": "Nvidia pesa mucho en el S&P 500 y el Nasdaq: sus anuncios mueven el sector IA.",
+  "cuentas": {},
+  "rol_verificado": "revisar",
+  "fuente_rol": ""
+ },
+ {
+  "id": "michael-saylor",
+  "nombre": "Michael Saylor",
+  "rol": "Presidente ejecutivo de Strategy",
+  "mercados": [
+   "cripto"
+  ],
+  "activos": [
+   "BTC"
+  ],
+  "por_que": "Su empresa es la que más BTC compra; sus compras se anuncian los lunes.",
+  "cuentas": {
+   "x": "saylor"
+  },
+  "rol_verificado": "revisar",
+  "fuente_rol": ""
+ },
+ {
+  "id": "larry-fink",
+  "nombre": "Larry Fink",
+  "rol": "Director de BlackRock",
+  "mercados": [
+   "cripto",
+   "acciones"
+  ],
+  "activos": [
+   "BTC",
+   "SPY"
+  ],
+  "por_que": "BlackRock maneja el ETF de BTC más grande.",
+  "cuentas": {},
+  "rol_verificado": "revisar",
+  "fuente_rol": ""
+ },
+ {
+  "id": "brian-armstrong",
+  "nombre": "Brian Armstrong",
+  "rol": "Director de Coinbase",
+  "mercados": [
+   "cripto"
+  ],
+  "activos": [
+   "BTC"
+  ],
+  "por_que": "Coinbase custodia buena parte de los ETF de BTC.",
+  "cuentas": {
+   "x": "brian_armstrong"
+  },
+  "rol_verificado": "revisar",
+  "fuente_rol": ""
+ },
+ {
+  "id": "vitalik-buterin",
+  "nombre": "Vitalik Buterin",
+  "rol": "Cofundador de Ethereum",
+  "mercados": [
+   "cripto"
+  ],
+  "activos": [
+   "ETH"
+  ],
+  "por_que": "Sus propuestas cambian el rumbo de Ethereum.",
+  "cuentas": {
+   "x": "VitalikButerin"
+  },
+  "rol_verificado": "revisar",
+  "fuente_rol": ""
+ },
+ {
+  "id": "cathie-wood",
+  "nombre": "Cathie Wood",
+  "rol": "Directora de ARK Invest",
+  "mercados": [
+   "acciones",
+   "cripto"
+  ],
+  "activos": [
+   "TSLA",
+   "BTC"
+  ],
+  "por_que": "Sus fondos compran y venden tecnológicas y cripto en público, cada día.",
+  "cuentas": {
+   "x": "CathieDWood"
+  },
+  "rol_verificado": "revisar",
+  "fuente_rol": ""
+ },
+ {
+  "id": "sam-altman",
+  "nombre": "Sam Altman",
+  "rol": "Director de OpenAI",
+  "mercados": [
+   "acciones"
+  ],
+  "activos": [
+   "NVDA",
+   "MSFT"
+  ],
+  "por_que": "Sus anuncios mueven a las empresas de IA que cotizan.",
+  "cuentas": {
+   "x": "sama"
+  },
+  "rol_verificado": "revisar",
+  "fuente_rol": ""
+ },
+ {
+  "id": "sam-bankman-fried",
+  "nombre": "Sam Bankman-Fried",
+  "rol": "Fundador de FTX (cayó en 2022)",
+  "mercados": [
+   "cripto"
+  ],
+  "activos": [
+   "BTC"
+  ],
+  "por_que": "Ejemplo histórico: la caída de FTX bajó BTC 20 % en una semana.",
+  "cuentas": {},
+  "rol_verificado": "histórico",
+  "fuente_rol": ""
+ }
+]
