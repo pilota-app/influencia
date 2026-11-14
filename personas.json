@@ -169,7 +169,7 @@
  {
   "id": "jensen-huang",
   "nombre": "Jensen Huang",
-  "rol": "Director de Nvidia",
+  "rol": "Cofundador de Nvidia; dejó de ser su director el 12 de noviembre de 2026",
   "mercados": [
    "acciones"
   ],
@@ -179,8 +179,8 @@
   ],
   "por_que": "Nvidia pesa mucho en el S&P 500 y el Nasdaq: sus anuncios mueven el sector IA.",
   "cuentas": {},
-  "rol_verificado": "revisar",
-  "fuente_rol": ""
+  "rol_verificado": "verificado 2026-11-14",
+  "fuente_rol": "https://www.semafor.com/article/11/12/2026/jensen-huang-resigns-as-nvidia-ceo"
  },
  {
   "id": "michael-saylor",

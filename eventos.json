@@ -457,5 +457,22 @@
   },
   "duro_20d": null,
   "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e028",
+  "persona": "jensen-huang",
+  "fecha": "2026-11-12",
+  "que": "Jensen Huang renuncia como director de Nvidia",
+  "activo": "NVDA",
+  "fuente": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+  "movimiento": {
+   "dia": -0.043,
+   "d1": -0.063,
+   "d5": null,
+   "d20": null,
+   "d60": null
+  },
+  "duro_20d": null,
+  "precios": "Yahoo Finance, cierre ajustado"
  }
 ]

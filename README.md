@@ -3,7 +3,7 @@
 Las personas que mueven el precio de las criptos y de las acciones de EE. UU., con cada evento fechado y medido.
 Pilota lo puede leer para su análisis. Son datos abiertos: cualquiera puede revisar cada número.
 
-**Estado: borrador (noviembre de 2026).** Tiene 18 personas y 27 eventos. Solo 3 personas tienen eventos medidos.
+**Estado: borrador (noviembre de 2026).** Tiene 18 personas y 28 eventos. Solo 4 personas tienen eventos medidos.
 La meta es llegar a 500 personas, pero una persona entra al ranking con puntaje solo cuando tiene eventos medidos.
 
 ## Qué hay

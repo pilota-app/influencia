@@ -1,7 +1,7 @@
 {
  "formato": 1,
  "personas": 18,
- "eventos": 27,
+ "eventos": 28,
  "ranking": [
   {
    "id": "donald-trump",
@@ -9,12 +9,25 @@
    "eventos": 14,
    "movimiento_medio_dia": 0.0443,
    "movimiento_reciente_dia": 0.0388,
-   "peso_reciente": 6.07,
+   "peso_reciente": 6.06,
    "duro_20d": 0.429,
    "ultimo_evento": "2026-04-14",
    "puntaje": 3.88,
    "estado": "medido",
    "puesto": 1
+  },
+  {
+   "id": "jensen-huang",
+   "nombre": "Jensen Huang",
+   "eventos": 1,
+   "movimiento_medio_dia": 0.043,
+   "movimiento_reciente_dia": 0.043,
+   "peso_reciente": 1.0,
+   "duro_20d": null,
+   "ultimo_evento": "2026-11-12",
+   "puntaje": 1.43,
+   "estado": "medido",
+   "puesto": 2
   },
   {
    "id": "elon-musk",
@@ -27,7 +40,7 @@
    "ultimo_evento": "2026-02-03",
    "puntaje": 0.64,
    "estado": "medido",
-   "puesto": 2
+   "puesto": 3
   },
   {
    "id": "sam-bankman-fried",
@@ -40,7 +53,7 @@
    "ultimo_evento": "2022-11-08",
    "puntaje": 0.2,
    "estado": "medido",
-   "puesto": 3
+   "puesto": 4
   },
   {
    "id": "kevin-warsh",
@@ -48,7 +61,7 @@
    "eventos": 0,
    "puntaje": null,
    "estado": "sin_medir",
-   "puesto": 4
+   "puesto": 5
   },
   {
    "id": "jerome-powell",
@@ -56,7 +69,7 @@
    "eventos": 0,
    "puntaje": null,
    "estado": "sin_medir",
-   "puesto": 5
+   "puesto": 6
   },
   {
    "id": "scott-bessent",
@@ -64,7 +77,7 @@
    "eventos": 0,
    "puntaje": null,
    "estado": "sin_medir",
-   "puesto": 6
+   "puesto": 7
   },
   {
    "id": "paul-atkins",
@@ -72,7 +85,7 @@
    "eventos": 0,
    "puntaje": null,
    "estado": "sin_medir",
-   "puesto": 7
+   "puesto": 8
   },
   {
    "id": "michael-selig",
@@ -80,7 +93,7 @@
    "eventos": 0,
    "puntaje": null,
    "estado": "sin_medir",
-   "puesto": 8
+   "puesto": 9
   },
   {
    "id": "richard-teng",
@@ -88,7 +101,7 @@
    "eventos": 0,
    "puntaje": null,
    "estado": "sin_medir",
-   "puesto": 9
+   "puesto": 10
   },
   {
    "id": "changpeng-zhao",
@@ -96,19 +109,11 @@
    "eventos": 0,
    "puntaje": null,
    "estado": "sin_medir",
-   "puesto": 10
+   "puesto": 11
   },
   {
    "id": "kevin-hassett",
    "nombre": "Kevin Hassett",
-   "eventos": 0,
-   "puntaje": null,
-   "estado": "sin_medir",
-   "puesto": 11
-  },
-  {
-   "id": "jensen-huang",
-   "nombre": "Jensen Huang",
    "eventos": 0,
    "puntaje": null,
    "estado": "sin_medir",
