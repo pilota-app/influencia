@@ -468,6 +468,23 @@
   "movimiento": {
    "dia": -0.043,
    "d1": -0.063,
+   "d5": -0.16,
+   "d20": null,
+   "d60": null
+  },
+  "duro_20d": null,
+  "precios": "Yahoo Finance, cierre ajustado"
+ },
+ {
+  "id": "e029",
+  "persona": "jensen-huang",
+  "fecha": "2026-11-23",
+  "que": "La junta de Nvidia reintegra a Jensen Huang como CEO",
+  "activo": "NVDA",
+  "fuente": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge",
+  "movimiento": {
+   "dia": 0.315,
+   "d1": 0.238,
    "d5": null,
    "d20": null,
    "d60": null
